@@ -1,0 +1,10 @@
+.DS_Store
+.bundle/*
+config/database.yml
+db/*.sqlite3
+test/*
+log/*
+tmp/*
+.rvmrc
+db/schema.rb
+
